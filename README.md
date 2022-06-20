@@ -1,5 +1,5 @@
 # futurereadytalent_project
-This is the Project for  Future Ready Talent virtual internship
+This is the Project for the Future Ready Talent virtual internship.
 
 ## Project Name: 
 # George De Couture
@@ -17,12 +17,24 @@ Its purpose is to provide the user the ease of booking a appointment and have ha
 Azure Service, Static Web Apps
 
 ## ScreenShots
+1. Screenshot of Landing Page
+![Screenshot1](https://user-images.githubusercontent.com/76419649/174546361-16566355-4737-4635-96a1-3e851e49fddb.jpg)
+2. Screenshot of footer:
+![screenshot2](https://user-images.githubusercontent.com/76419649/174546387-3e4493a0-ca71-4590-a578-b0f131b798ed.jpg)
+3. Screenshot of About Tab:
+![screenshot3](https://user-images.githubusercontent.com/76419649/174546567-14fcf472-aae0-4ad4-938a-d7d09a937c81.jpg)
 
-<img src='C:\Users\Dell\Pictures\ms1.jpg' width='600' height='400'>
-<img src='C:\Users\Dell\Pictures\ms2.jpg' width='600' height='400'>
-<img src='C:\Users\Dell\Pictures\ms3.jpg' width='600' height='400'>
-<img src='C:\Users\Dell\Pictures\ms4.jpg' width='600' height='400'>
-<img src='C:\Users\Dell\Pictures\ms5.jpg' width='600' height='400'>
+![screenshot4](https://user-images.githubusercontent.com/76419649/174546578-86d1dcd9-2932-4b78-92db-f8d258738efa.jpg)
+4. Screenshot of Contact Us page:
+![screenshot5](https://user-images.githubusercontent.com/76419649/174546596-90eb9b90-f675-4c03-b94f-c1f5ca05c443.jpg)
+
+
+# Link to the  Website:
+George De Couture :https://jolly-ocean-053c9b410.1.azurestaticapps.net/contact.html
+
+# Link to Repo:
+https://github.com/ayushigeorge/futurereadytalent_project
+
 
 
 
