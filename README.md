@@ -32,8 +32,15 @@ Azure Service, Static Web Apps
 # Link to the  Website:
 George De Couture :https://jolly-ocean-053c9b410.1.azurestaticapps.net/contact.html
 
+# Video Demo Link:
+https://user-images.githubusercontent.com/76419649/174551689-8266996e-b522-4a34-9251-8c0371045908.mp4
+
+
 # Link to Repo:
 https://github.com/ayushigeorge/futurereadytalent_project
+
+
+
 
 
 
