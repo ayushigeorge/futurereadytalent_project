@@ -1,4 +1,4 @@
-# futurereadytalent_project
+# Future Ready Talent Project 2022
 This is the Project for the Future Ready Talent virtual internship.
 
 ## Project Name: 
